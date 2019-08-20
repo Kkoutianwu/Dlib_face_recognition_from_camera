@@ -193,15 +193,3 @@ Tips:
 #. 人脸录入的时候先建文件夹再保存图片, 先 ``N`` 再 ``S`` / Press ``N`` before ``S``
 
 #. 修改显示人脸姓名, 参考这个 patch 修改代码 / If you want to customize the names shown instead of "Person 1", "Person 2"..., please apply this patch: https://github.com/coneypo/Dlib_face_recognition_from_camera/commit/0351cc0f1a1c3a106102c0671dd19edd5866fa93
-
-可以访问我的博客获取本项目的更详细介绍，如有问题可以邮件联系我 /
-For more details, please refer to my blog (in chinese) or mail to me :
-
-* Blog: https://www.cnblogs.com/AdaminXie/p/9010298.html
-  
-* Mail: coneypo@foxmail.com ( Dlib 相关 repo 问题请联系 @foxmail 而不是 @intel )
-
-
-仅限于交流学习, 商业合作勿扰;
-
-Thanks for your support.
